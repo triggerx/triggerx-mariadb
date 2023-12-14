@@ -1,4 +1,4 @@
-FROM mariadb:12.2.2-jammy
+FROM mariadb:11.2.2-jammy
 
 # ENV PRODUCTION=true
 RUN   apt-get update
